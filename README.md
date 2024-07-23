@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Dev Patel, a third year Computer Engineering student at the University of Waterloo
-- 👀 I’m interested in C/C++ programming and Firmwware development
+- 👋 Hi, I’m Dev Patel, a fourth-year Computer Engineering student at the University of Waterloo
+- 👀 I’m interested in C/C++ programming and Firmware development
 - 📫 You can reach me at Dev.Patel1@uwaterloo.ca
 
 <!---
